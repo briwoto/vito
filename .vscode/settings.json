@@ -1,0 +1,15 @@
+{
+	"chat.tools.terminal.autoApprove": {
+		"npm install": true
+	},
+	"cucumberautocomplete.steps": [
+		"step-definitions/**/*.ts"
+	],
+	"cucumberautocomplete.syncfeatures": "features/**/*.feature",
+	"cucumber.features": [
+		"features/**/*.feature"
+	],
+	"cucumber.glue": [
+		"step-definitions/**/*.ts"
+	]
+}
